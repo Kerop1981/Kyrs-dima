@@ -1,0 +1,12 @@
+.card-container {
+    border: 5px solid #28282B;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(238, 235, 231);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+  .delete-user {
+    margin-left: 5px;
+  }
+  
